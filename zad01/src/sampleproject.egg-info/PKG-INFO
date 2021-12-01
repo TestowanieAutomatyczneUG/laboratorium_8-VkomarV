@@ -10,7 +10,6 @@ Project-URL: Bug Reports, https://github.com/pypa/sampleproject/issues
 Project-URL: Funding, https://donate.pypi.org
 Project-URL: Say Thanks!, http://saythanks.io/to/example
 Project-URL: Source, https://github.com/pypa/sampleproject/
-Description: #Jakieś README
 Keywords: sample,setuptools,development
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
@@ -27,3 +26,7 @@ Requires-Python: >=3.5, <4
 Description-Content-Type: text/markdown
 Provides-Extra: dev
 Provides-Extra: test
+License-File: LICENSE.txt
+
+#Jakieś README
+

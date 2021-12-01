@@ -5,7 +5,7 @@ from src.planety import planets_time
 
 class Test_planety(unittest.TestCase):
     def test_from_file(self):
-        file = open("./planety.json")
+        file = open("../data/planety.json")
         data = json.load(file)
         file.close()
         for [input, output] in data:
